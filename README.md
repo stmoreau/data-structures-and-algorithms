@@ -1,6 +1,8 @@
 ## What is a data structure?
 
-It's an arrangement of data. You can define a way that you interact with this data and the way it is arranged in memory.
+A data structure is a data organization, management and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
+
+http://bigocheatsheet.com/
 
 ### Types of data structures
 

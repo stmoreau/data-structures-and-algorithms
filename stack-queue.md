@@ -31,6 +31,10 @@ Common use cases:
 
 **Web Browsers**: Whatever you browse in a particular tab is saved in a stack, whenever you try to go back to the last visited page the tab stack outputs the last visited pages in last in first out order.
 
+Implementation:
+- [Starting point](https://repl.it/@stmoreau/stack-prompt)
+- [Ending point](https://repl.it/@stmoreau/stack-prompt-ending)
+
 ### Queue
 
 A queue is **an abstract data type that serves as a collection of elements, with two principal operations**:
