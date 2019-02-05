@@ -6,7 +6,5 @@ It's an arrangement of data. You can define a way that you interact with this da
 
 - [Stacks / Queues](stack-queue.md)
 - [Linked Lists](linked-list.md)
-- Hash Tables
-- Arrays
-- Strings
-
+- [Hash Tables](hash-table.md)
+- [Arrays / Strings](array-string.md)

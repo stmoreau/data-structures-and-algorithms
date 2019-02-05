@@ -4,7 +4,7 @@ Stacks and queues are special cases of the idea of a collection that have *opini
 
 ### Stack
 
-In computer science, **a stack is an abstract data type that serves as a collection of elements, with two principal operations**:
+A stack is **an abstract data type that serves as a collection of elements, with two principal operations**:
 
 - **push**, which *adds an element to the collection*, and
 - **pop**, which *removes the most recently added element that was not yet removed*.
@@ -33,7 +33,7 @@ Common use cases:
 
 ### Queue
 
-In computer science, **a queue is an abstract data type that serves as a collection of elements, with two principal operations**:
+A queue is **an abstract data type that serves as a collection of elements, with two principal operations**:
 
 - **enqueue**, which is the *addition of entities to the rear terminal position*, and
 - **dequeue**, which is the *removal of entities from the front terminal position*.
