@@ -15,7 +15,7 @@ A common example people use is is a stack of plates.
 
 So for a stack the most recently added item is also the most recently exited item.
 
-[Data visualization](https://www.cs.usfca.edu/~galles/visualization/StackArray.html)
+[Visualization](https://www.cs.usfca.edu/~galles/visualization/StackArray.html)
 
 Pseudocode for stack:
 ```js
@@ -24,6 +24,12 @@ const stack = [1,2,3,4];
 stack.push(5) // [1,2,3,4,5]
 stack.pop() // [1,2,3,4]
 ```
+
+Common use cases:
+
+**Text Editor**: The undo feature in a any text editor is a classic example of stack. Whatever you do in a text editor is saved in a data structure and when you undo them, the same activities are undone based on Last In First Out Order (LIFO).
+
+**Web Browsers**: Whatever you browse in a particular tab is saved in a stack, whenever you try to go back to the last visited page the tab stack outputs the last visited pages in last in first out order.
 
 ### Queue
 
@@ -38,7 +44,7 @@ A common example people use is waiting in a line for something.
 
 So you always take the oldest item of the queue.
 
-[Data visualization](https://www.cs.usfca.edu/~galles/visualization/QueueArray.html)
+[Visualization](https://www.cs.usfca.edu/~galles/visualization/QueueArray.html)
 
 Pseudocode for queue:
 ```js
@@ -47,3 +53,11 @@ const queue = [1,2,3,4];
 stack.enqueue(5) // [1,2,3,4,5]
 stack.dequeue() // [2,3,4,5]
 ```
+
+Common use cases:
+
+When multiple people are accessing the same website for some file, the file is provided to them using First Come First Serve (FCFS) basis and it can be implemented using queue.
+
+When you put multiple file in a print queue, the files get printed based on FCFS format and it can be implemented using queue.
+
+Incoming email in inbox is also implemented using queue data structure.
