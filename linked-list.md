@@ -42,3 +42,7 @@ Common use cases of Linked List:
 Least recently used cache (recent searches, popular videos etc.). You have some space allocated and as you add new searches you are adding into this data structure. Once you reach capacity, it needs to have an exit, so the least recently used will remove the oldest one.
 
 Hash tables are using Linked List underneath.
+
+Implementation:
+- [Starting point](https://repl.it/@stmoreau/linked-list-prompt)
+- [Ending point](https://repl.it/@stmoreau/linked-list-prompt-ending) - [local JS file](implementation/linked-list.js)
