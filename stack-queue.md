@@ -33,7 +33,7 @@ Common use cases:
 
 Implementation:
 - [Starting point](https://repl.it/@stmoreau/stack-prompt)
-- [Ending point](https://repl.it/@stmoreau/stack-prompt-ending)
+- [Ending point](https://repl.it/@stmoreau/stack-prompt-ending) - [local JS file](implementation/stack.js)
 
 ### Queue
 
@@ -65,3 +65,7 @@ When multiple people are accessing the same website for some file, the file is p
 When you put multiple file in a print queue, the files get printed based on FCFS format and it can be implemented using queue.
 
 Incoming email in inbox is also implemented using queue data structure.
+
+Implementation:
+- [Starting point](https://repl.it/@stmoreau/queue-prompt)
+- [Ending point](https://repl.it/@stmoreau/queue-prompt-ending) - [local JS file](implementation/queue.js)
