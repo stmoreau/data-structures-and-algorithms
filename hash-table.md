@@ -14,10 +14,17 @@ As a general rule of thumb it is good practice (and mathematically proven) that 
 | Flexible keys | Unordered                   |
 |               | Single-directional lookups  |
 
----
 *Tip*:
 When you're thinking about optimizing a problem that requires a fast look-up your mind should always go to Hash Table
 
 Implementation:
 - [Starting point](https://repl.it/@stmoreau/hash-table-prompt)
 - [Ending point](https://repl.it/@stmoreau/hash-table-prompt-ending) - [local JS file](implementation/hash-table.js)
+
+---
+Common Interview Questions:
+
+- [Count the number of occurences of all characters or words in a body of text or string](https://repl.it/@stmoreau/ht-unique-string-prompt) - [solution](https://www.geeksforgeeks.org/determine-string-unique-characters/)
+- [Remove duplicates in a list](https://repl.it/@stmoreau/ht-remove-dups-prompt) - [solution](https://www.geeksforgeeks.org/remove-duplicates-from-a-given-string/)
+- [Find a unique value in a list](https://repl.it/@stmoreau/ht-find-unique-list-prompt) - [solution](https://www.geeksforgeeks.org/non-repeating-element/)
+- [Find if two integers in a list add up to k](https://repl.it/@stmoreau/ht-two-items-sum) - [solution](https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/)
