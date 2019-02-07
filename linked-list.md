@@ -46,3 +46,15 @@ Hash tables are using Linked List underneath.
 Implementation:
 - [Starting point](https://repl.it/@stmoreau/linked-list-prompt)
 - [Ending point](https://repl.it/@stmoreau/linked-list-prompt-ending) - [local JS file](implementation/linked-list.js)
+
+---
+Common Interview Questions:
+
+- Delete the following:
+  - [a node in the middle of the linked list](https://repl.it/@stmoreau/ll-delete-mid-node-prompt) - [solution](https://www.geeksforgeeks.org/delete-middle-of-linked-list/)
+  - [a node with only a variable pointing at that node](https://repl.it/@stmoreau/ll-delete-node-no-pointers-prompt) - [solution](https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/)
+  - [a duplicate](https://repl.it/@stmoreau/ll-delete-dupe-node-prompt) - [solution](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/)
+- [Partition a linked list around a value](https://repl.it/@stmoreau/ll-partition-prompt) - [solution](https://repl.it/@stmoreau/ll-partition-solution)
+- [Write a function for reversing a linked list. Can you do it in-place?](https://repl.it/@stmoreau/ll-reverse-prompt) - [solution](https://repl.it/@stmoreau/ll-reverse-solution)
+- [Check if a linked list contains a cycle](https://repl.it/@stmoreau/ll-cycle-detect-prompt) - [solution](https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/)
+- [Find the kth to the last node](https://repl.it/@stmoreau/ll-kth-to-last-node-prompt) - [solution](https://repl.it/@stmoreau/ll-kth-to-last-node-solution)
