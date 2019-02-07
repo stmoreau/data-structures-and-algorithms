@@ -69,3 +69,12 @@ Incoming email in inbox is also implemented using queue data structure.
 Implementation:
 - [Starting point](https://repl.it/@stmoreau/queue-prompt)
 - [Ending point](https://repl.it/@stmoreau/queue-prompt-ending) - [local JS file](implementation/queue.js)
+
+---
+Common Interview Questions:
+
+- [Use an array to implement 3 stacks](https://repl.it/@stmoreau/k-stacks-one-array-prompt) - [solution](https://repl.it/@stmoreau/k-stacks-one-array-solution)
+- [Implement a getMin() or getMax() method on your stack](https://repl.it/@stmoreau/min-stack-prompt) - [solution](https://repl.it/@stmoreau/min-stack-solution)
+- [Create a queue using 2 stacks](https://repl.it/@stmoreau/queue-two-stacks-prompt) - [solution](https://repl.it/@stmoreau/queue-two-stacks-solution)
+- [Sort a stack with the min values in order, on top. You can use stack as a buffer](https://repl.it/@stmoreau/sort-stack-prompt) - [solution](https://repl.it/@stmoreau/sort-stack-solution)
+- [Write a function that returns true if a string of brackets is valid/balanced](https://repl.it/@stmoreau/bracket-validator-prompt) - [solution](https://repl.it/@stmoreau/bracket-validator-solution)
