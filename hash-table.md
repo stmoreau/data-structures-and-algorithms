@@ -17,3 +17,7 @@ As a general rule of thumb it is good practice (and mathematically proven) that 
 ---
 *Tip*:
 When you're thinking about optimizing a problem that requires a fast look-up your mind should always go to Hash Table
+
+Implementation:
+- [Starting point](https://repl.it/@stmoreau/hash-table-prompt)
+- [Ending point](https://repl.it/@stmoreau/hash-table-prompt-ending) - [local JS file](implementation/hash-table.js)
